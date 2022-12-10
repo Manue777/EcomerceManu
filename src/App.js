@@ -87,7 +87,7 @@ function App() {
             <Register/>
           </Route>
           <Route path="/Pages">
-            <Pages/>
+           <Pages productItems={productItems} addToCart={addToCart} shopItems={shopItems} />
           </Route>
         </Switch>
         <Footer />

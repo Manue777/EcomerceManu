@@ -8,6 +8,10 @@ footer h1 {
   color: #f3f3f7;
   font-weight: 800;
   font-style: italic;
+  background-color: #283250;
+  border-radius: 15px;
+  text-align: center;
+  
 }
 footer .img {
   background-color: #283250;
@@ -17,20 +21,29 @@ footer .img {
 footer .img i {
   font-size: 20px;
   margin: 5px;
+  
+  
 }
 footer .img span {
   margin-top: 5px;
+  
 }
 footer p {
   font-size: 14px;
   font-weight: 300;
-  opacity: 0.5;
+
   margin-bottom: 20px;
+  
 }
 footer h2 {
   margin-bottom: 20px;
+  background-color: #283250;
+  text-align: center;
+  border-radius: 15px;
+
 }
 footer li {
   margin-bottom: 10px;
-  opacity: 0.5;
+  text-align: center;
+  
 }
