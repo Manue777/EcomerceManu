@@ -25,7 +25,7 @@ const Navbar = () => {
                 <Link to='/pages'>pages</Link>
               </li>
               <li>
-                <Link to='/user'>user account</Link>
+                <Link to='/Login'>user account</Link>
               </li>
               <li>
                 <Link to='/vendor'>vendor account</Link>
