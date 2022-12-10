@@ -18,6 +18,7 @@ body {
 .container {
   max-width: 90%;
   margin: auto;
+
 }
 .d_flex {
   display: flex;
@@ -64,6 +65,7 @@ button {
   margin-left: 20px;
   text-align: center;
   border-radius: 50%;
+  padding-top:15px;
 }
 .boxShadow {
   box-shadow: rgb(43 52 69 / 10%) 0px 4px 16px;
@@ -74,8 +76,8 @@ button {
   width: 77%;
 }
 .category {
-  box-shadow: rgb(43 52 69 / 10%) 0px 4px 16px;
-  background-color: #fff;
+  box-shadow: rgba(60, 123, 238, 0.1) 0px 4px 16px;
+  background-color: rgb(255, 255, 255);
   width: 23%;
   height: 510px;
   padding: 15px 0;
