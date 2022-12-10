@@ -34,11 +34,12 @@ const Login =()=>{
                   name="password"
                   label="Password"
                   fullWidth
-                  required
+                  require
                 />
               </Box>
               <Box my={3}>
-                <Button type="submit" fullWidth variant="outlined">
+                <Button  
+                  type="submit" fullWidth variant="outlined" >
                   Login
                 </Button>
               </Box>

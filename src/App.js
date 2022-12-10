@@ -86,6 +86,9 @@ function App() {
           <Route path="/Register">
             <Register/>
           </Route>
+          <Route path="/Pages">
+            <Pages/>
+          </Route>
         </Switch>
         <Footer />
       </Router>
